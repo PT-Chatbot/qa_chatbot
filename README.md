@@ -1,4 +1,4 @@
-# QA Catbot
+# QA Chatbot
 
 Este proyecto implementa un chatbot de preguntas y respuestas diseñado para asistir automáticamente a los usuarios en la Universidad del Caribe. Utiliza técnicas avanzadas de procesamiento de lenguaje natural, incluyendo el uso de embeddings para mejorar la comprensión y generación de respuestas.
 
