@@ -36,6 +36,12 @@ Clonar este repositorio y instalar las dependencias:
 
 ```bash
 git clone https://github.com/PT-Chatbot/qa_chatbot.git
+```
+
+```bash
 cd qa_chatbot
+```
+
+```bash
 pip install -r requirements.txt
 ```
