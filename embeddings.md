@@ -212,17 +212,29 @@ Se recomienda cargar primero y aprobar "Física Clásica" antes de "Electricidad
 
 Se recomienda cargar primero y aprobar "Cálculo Diferencial" antes de "Cálculo Integral", y así sucesivamente.
 
+Se recomienda cargar primero y aprobar "Calculo Integral" para cargar "Ecuaciones Diferenciales".
+
+Se recomienda cargar primero y aprobar "Probabilidad y Estadistica" para cargar "Estadistica Analitica", y así sucesivamente.
+
+Se recomienda cargar primero y aprobar "Estadistica Analitica" para cargar "Aprendizaje Estadistico"
+
 #### Hardware y Software de Base
 
 Se recomienda cargar primero y aprobar "Organización y Diseño de Computadoras" antes de "Electrónica Digital", y así sucesivamente.
 
+Se recomienda cargar primero y aprobar "Electronica Digital" para cargar "Electronica Analogica"
+
 #### Tratamiento de Información
 
-Se recomienda cargar primero y aprobar "Introducción a los Sistemas de Información" antes de "Bases de Datos", y así sucesivamente.
+Se recomienda cargar primero y aprobar "Introducción a los Sistemas de Información" antes de "Bases de Datos".
+
+Se recomienda cargar primero y aprobar "Mineria de datos" para cargar "Procesamiento de Datos en la Nube"	
 
 #### Ingeniería de Software
 
-Se recomienda cargar primero y aprobar "Diseño de Patrones para Datos Estructurados" antes de "Técnicas Algorítmicas", y así sucesivamente.
+Se recomienda cargar primero y aprobar "Diseño de patrones para datos estructurados" para cargar "Tecnicas Algoritmicas"
+
+Se recomienda cargar primero y aprobar "Programacion Orientada a Objetos" para cargar "Ingenieria de Software"
 
 #### Inglés
 
